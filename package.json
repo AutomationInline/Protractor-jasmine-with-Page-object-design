@@ -1,7 +1,7 @@
 {
-  "name": "protractor-components-and-page-objects",
+  "name": "protractor-jasmine-page-objects",
   "version": "1.0.0",
-  "description": "project to demonstrate protractor tests using the concept of components and page objects",
+  "description": "project to demonstrate protractor tests using page objects",
   "repository": {
     "type": "git",
     "url": "https://github.com/AutomationInline/Protractor-jasmine-with-Page-object-design"
